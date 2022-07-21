@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include trainer_app *.css
+recursive-include trainer_app *.csv
+recursive-include trainer_app *.html
+recursive-include trainer_app *.ico
+recursive-include trainer_app *.js
+recursive-include trainer_app *.json
+recursive-include trainer_app *.md
+recursive-include trainer_app *.png
+recursive-include trainer_app *.py
+recursive-include trainer_app *.svg
+recursive-include trainer_app *.txt
+recursive-exclude trainer_app *.pyc
