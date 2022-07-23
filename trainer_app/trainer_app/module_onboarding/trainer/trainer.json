@@ -1,0 +1,29 @@
+{
+ "allow_roles": [
+  {
+   "role": "All"
+  }
+ ],
+ "creation": "2022-07-21 18:59:12.209883",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "google.com",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2022-07-21 18:59:12.209883",
+ "modified_by": "Administrator",
+ "module": "Trainer App",
+ "name": "Trainer",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Step 01"
+  },
+  {
+   "step": "step 02"
+  }
+ ],
+ "subtitle": "Subjtitle",
+ "success_message": "Message",
+ "title": "Tile"
+}
