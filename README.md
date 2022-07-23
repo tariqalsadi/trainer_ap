@@ -1,7 +1,3 @@
-## Trainer App
+bench get-app https://github.com/tariqalsadi/trainer_ap.git
 
-desc
-
-#### License
-
-MIT
+bench --site erp-site install-app trainer_ap
